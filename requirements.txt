@@ -1,0 +1,9 @@
+pandas[pyarrow] # arrow data format framework for data integration
+torch[numpy] # numpy is the dependency of pytorch
+tensorflow[] # tensor framework deepL : dependency for hugginface
+tf-keras # dependency for tensorflow
+flax # numpy like array computation for neural network : dependency for hugginface
+transformers # huggingface NLP library hub : have pretrained NLP models
+git+https://github.com/amazon-science/chronos-forecasting.git
+matplotlib
+ipykernel
