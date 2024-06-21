@@ -29,3 +29,11 @@ Flax is a relatively new but powerful deep learning library built on top of JAX,
 #### Transformers
 
 Transformers are a specific type of neural network architecture that have revolutionized the field of Natural Language Processing (NLP) in data science.
+
+#### NLTK
+
+NLTK, or the Natural Language Toolkit, is a comprehensive library in Python used for working with human language data (text). It provides easy-to-use interfaces to over 50 corpora and lexical resources, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and more.
+
+#### Textblob
+
+TextBlob is a free, open-source Python library designed specifically for simplifying common Natural Language Processing (NLP) tasks. It offers a user-friendly interface built on top of NLTK (Natural Language Toolkit) to perform essential text analysis operations, tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.

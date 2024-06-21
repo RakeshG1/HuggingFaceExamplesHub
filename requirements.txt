@@ -6,4 +6,8 @@ flax # numpy like array computation for neural network : dependency for hugginfa
 transformers # huggingface NLP library hub : have pretrained NLP models
 git+https://github.com/amazon-science/chronos-forecasting.git
 matplotlib
+seaborn
+nltk
+textblob
+wordcloud
 ipykernel
